@@ -23,6 +23,6 @@ print("Index of maximum value in list is : " , random_list.index(var2))
 add=0
 for i in random_list:
         add+=i
-        mean_of_randomlist=add/len(random_list)
+mean_of_randomlist=add/len(random_list)
 print("Mean of values of list : " , mean_of_randomlist)
 
